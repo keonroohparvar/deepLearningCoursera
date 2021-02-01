@@ -23,5 +23,3 @@ toc = time.time()
 print("For loop version: " + str((toc-tic) * 1000))
 
 
-
-
